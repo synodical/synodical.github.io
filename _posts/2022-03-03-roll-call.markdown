@@ -1,3 +1,19 @@
+---
+title:  "[Jekyll] 점호 시스템 만들기"
+excerpt: "홍익대학교 기숙사 층장의 업무 자동화를 위해 점호 시스템을 만드는 과정"
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, Github, Git]
+
+toc: true
+toc_sticky: true
+ 
+date: 2022-03-03
+last_modified_at: 2022-03-03
+---
+
 - 홍익대학교 기숙사 층장의 업무 자동화를 위해 점호 시스템을 만드는 과정
 - ‘zerocho(조현영)님의 Node.js 교과서’를 참고하여 공부하면서 만들었음
 
