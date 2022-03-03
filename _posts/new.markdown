@@ -3,9 +3,7 @@
 
 - [ ]  ‘비동기/동기'와 async/await, promise 이해하기
 - [ ]  [https://elvanov.com/2597](https://elvanov.com/2597) 이거 따라치면 위에가 될지도
-- [ ]  객체 구조화?
-- [ ]  
-- [ ]  이건 뭐지?
+
 
 *//const { DataTypes } = require("sequelize/types");*
 
@@ -57,7 +55,8 @@ user, resident schema 만들고 ObjectId 추가하여 JOIN 비슷하게 했음.
 ### 교훈
 
 <aside>
-💡 1. test를 성실히 하자. 나의 코드를 너무 믿지 말자. Test 코드 작성법을 알고 적용해보자
+💡 
+1. test를 성실히 하자. 나의 코드를 너무 믿지 말자. Test 코드 작성법을 알고 적용해보자
 2. 개발 공부용 책은 되도록 전자책으로, 신판으로 사자
 3. 버전 관리를 섬세히 하자.
 
